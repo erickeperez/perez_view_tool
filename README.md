@@ -19,8 +19,10 @@ Or install it yourself as:
     $ gem install perez_view_tool
 
 ## Usage
+```ruby
+PerezViewTool::Renderer.copyright 'Erick Perez', 'All rights reserved'
+```
 
-## Personal Gem
 
 ## Development
 
