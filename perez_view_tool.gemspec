@@ -8,11 +8,11 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = "https://github.com/erickeperez/perez_view_tool"
+  spec.homepage      = "https://perezerick24.com"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  spec.metadata["allowed_push_host"] = "https://github.com/erickeperez/perez_view_tool"
+  spec.metadata["allowed_push_host"] = "https://perezerick24.com"
 
 # http
 #   spec.metadata["homepage_uri"] = "https://github.com/erickeperez/perez_view_tool"
