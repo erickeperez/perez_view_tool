@@ -8,14 +8,14 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = "https://perezerick24.com"
+  spec.homepage      = "https://github.com/erickeperez/perez_view_tool"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  spec.metadata["allowed_push_host"] = "'http://mygemserver.com'"
-
+  spec.metadata["allowed_push_host"] = "https://github.com/erickeperez/perez_view_tool"
+http
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "perez_view_tool"
+  spec.metadata["source_code_uri"] = "https://github.com/erickeperez/perez_view_tool"
   spec.metadata["changelog_uri"] = "perez_view_tool_changelog.MD"
 
   # Specify which files should be added to the gem when it is released.
